@@ -1,0 +1,13 @@
+/* Special color for issues in tracker 3 (Support)
+   This is a clear reminder about customer receiving follow-up of the
+   issue */
+div.issue.tracker-3 {
+	background:#fee;
+}
+
+/* Icon for knowledgebase top menu */
+#top-menu li a.knowledgebase:before {
+        font-family: Fontawesome;
+        content: "\f02d ";
+}
+
